@@ -131,3 +131,11 @@ footer p {
 	color: white;
 	padding: 1em 0;
 }
+
+h1 {
+	font-size: 150%;
+	padding-top: 0.5em;
+	padding-bottom: 0.25em;
+	margin-top: 0;
+	margin-bottom: 0;
+}
